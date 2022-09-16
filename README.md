@@ -23,7 +23,7 @@ For achieving better results from the applied model in Machine Learning projects
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
 
 
-##ALGORITHM:
+### ALGORITHM:
 Importing the libraries
 Importing the dataset
 Taking care of missing data
@@ -31,7 +31,7 @@ Encoding categorical data
 Normalizing the data
 Splitting the data into test and train
 
-##PROGRAM:
+### PROGRAM:
 ```
 import pandas as pd
 df=pd.read_csv("/content/Churn_Modelling.csv")
@@ -59,7 +59,7 @@ df1 = sc.fit_transform(df)
 print(df1)
 ```
 
-##OUTPUT:
+### OUTPUT:
 
 
 ![image](https://github.com/Pallavi-Raveendranadreddy/Ex.No.1---Data-Preprocessing/blob/f9ba60ab13cb10fc78b16083271dbab72bc51c9b/n1.PNG)
@@ -67,5 +67,5 @@ print(df1)
 ![image](https://github.com/Pallavi-Raveendranadreddy/Ex.No.1---Data-Preprocessing/blob/f9ba60ab13cb10fc78b16083271dbab72bc51c9b/n3.PNG)
 ![image](https://github.com/Pallavi-Raveendranadreddy/Ex.No.1---Data-Preprocessing/blob/f9ba60ab13cb10fc78b16083271dbab72bc51c9b/n4.PNG)
 
-##RESULT
+### RESULT
 Thus the above program for standardizing the given data was implemented successfully.
