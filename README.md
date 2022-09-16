@@ -60,7 +60,10 @@ print(df1)
 ```
 
 ##OUTPUT:
-
+![image](https://github.com/Pallavi-Raveendranadreddy/Ex.No.1---Data-Preprocessing/blob/f9ba60ab13cb10fc78b16083271dbab72bc51c9b/n1.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Ex.No.1---Data-Preprocessing/blob/f9ba60ab13cb10fc78b16083271dbab72bc51c9b/n2.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Ex.No.1---Data-Preprocessing/blob/f9ba60ab13cb10fc78b16083271dbab72bc51c9b/n3.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Ex.No.1---Data-Preprocessing/blob/f9ba60ab13cb10fc78b16083271dbab72bc51c9b/n4.PNG)
 
 ##RESULT
 Thus the above program for standardizing the given data was implemented successfully.
